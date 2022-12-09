@@ -1,4 +1,4 @@
-# Hritvik-Gupta-Final-
+# Hritvik-Gupta-Final-GPU Project
 matrix-matrix multiplication Using CUDA Multi-GPU's and Streams
 
 The program contain 2 matrix of each 2048 with random values. 
